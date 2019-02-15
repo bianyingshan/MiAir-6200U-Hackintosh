@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>8086:080A</key>
+	<string>Moorestown Audio Ctrl</string>
+	<key>8086:0A0C</key>
+	<string>Haswell-ULT HD Audio Controller</string>
+	<key>8086:0C0C</key>
+	<string>Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller</string>
+	<key>8086:0D0C</key>
+	<string>Crystal Well HD Audio Controller</string>
+	<key>8086:0E11000B</key>
+	<string>Compaq Deskpro EN Audio</string>
+	<key>8086:0F04</key>
+	<string>Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller</string>
+	<key>8086:0F28</key>
+	<string>Atom Processor Z36xxx/Z37xxx Series LPE Audio Controller</string>
+	<key>8086:10135959</key>
+	<string>Crystal WMD Audio Codec</string>
+	<key>8086:1025011F</key>
+	<string>Realtek ALC268 audio codec</string>
+	<key>8086:10280095</key>
+	<string>Precision Workstation 220 Integrated Digital Audio</string>
+	<key>8086:10CF1099</key>
+	<string>QSound_SigmaTel Stac97 PCI Audio</string>
+	<key>8086:11D40040</key>
+	<string>SoundMAX Integrated Digital Audio</string>
+	<key>8086:11D40048</key>
+	<string>SoundMAX Integrated Digital Audio</string>
+	<key>8086:11D45340</key>
+	<string>SoundMAX Integrated Digital Audio</string>
+	<key>8086:14627267</key>
+	<string>Realtek ALC883 Audio Controller</string>
+	<key>8086:160C</key>
+	<string>Broadwell-U Audio Controller</string>
+	<key>8086:17AA3802</key>
+	<string>3000 C200 audio [Realtek ALC861VD]</string>
+	<key>8086:1C20</key>
+	<string>6 Series/C200 Series Chipset Family High Definition Audio Controller</string>
+	<key>8086:1D20</key>
+	<string>C600/X79 series chipset High Definition Audio Controller</string>
+	<key>8086:1E20</key>
+	<string>7 Series/C216 Chipset Family High Definition Audio Controller</string>
+	<key>8086:2284</key>
+	<string>Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller</string>
+	<key>8086:22A8</key>
+	<string>Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series Low Power Engine Audio</string>
+	<key>8086:2415</key>
+	<string>82801AA AC&apos;97 Audio Controller</string>
+	<key>8086:2425</key>
+	<string>82801AB AC&apos;97 Audio Controller</string>
+	<key>8086:2445</key>
+	<string>82801BA/BAM AC&apos;97 Audio Controller</string>
+	<key>8086:2485</key>
+	<string>82801CA/CAM AC&apos;97 Audio Controller</string>
+	<key>8086:24C5</key>
+	<string>82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC&apos;97 Audio Controller</string>
+	<key>8086:24D5</key>
+	<string>82801EB/ER (ICH5/ICH5R) AC&apos;97 Audio Controller</string>
+	<key>8086:25A6</key>
+	<string>6300ESB AC&apos;97 Audio Controller</string>
+	<key>8086:2668</key>
+	<string>82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller</string>
+	<key>8086:266E</key>
+	<string>82801FB/FBM/FR/FW/FRW (ICH6 Family) AC&apos;97 Audio Controller</string>
+	<key>8086:2698</key>
+	<string>631xESB/632xESB AC &apos;97 Audio Controller</string>
+	<key>8086:269A</key>
+	<string>631xESB/632xESB High Definition Audio Controller</string>
+	<key>8086:27D8</key>
+	<string>NM10/ICH7 Family High Definition Audio Controller</string>
+	<key>8086:27DE</key>
+	<string>82801G (ICH7 Family) AC&apos;97 Audio Controller</string>
+	<key>8086:284B</key>
+	<string>82801H (ICH8 Family) HD Audio Controller</string>
+	<key>8086:293E</key>
+	<string>82801I (ICH9 Family) HD Audio Controller</string>
+	<key>8086:2E5F</key>
+	<string>CE Media Processor Audio DSP</string>
+	<key>8086:2E60</key>
+	<string>CE Media Processor Audio Interfaces</string>
+	<key>8086:3A3E</key>
+	<string>82801JI (ICH10 Family) HD Audio Controller</string>
+	<key>8086:3A6E</key>
+	<string>82801JD/DO (ICH10 Family) HD Audio Controller</string>
+	<key>8086:3B56</key>
+	<string>5 Series/3400 Series Chipset High Definition Audio</string>
+	<key>8086:3B57</key>
+	<string>5 Series/3400 Series Chipset High Definition Audio</string>
+	<key>8086:5A98</key>
+	<string>Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster</string>
+	<key>8086:7195</key>
+	<string>82440MX AC&apos;97 Audio Controller</string>
+	<key>8086:8086E002</key>
+	<string>SoundMax Integrated Digital Audio</string>
+	<key>8086:811B</key>
+	<string>US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller</string>
+	<key>8086:83847680</key>
+	<string>STAC9221 HD Audio Codec</string>
+	<key>8086:8C20</key>
+	<string>8 Series/C220 Series Chipset High Definition Audio Controller</string>
+	<key>8086:8C21</key>
+	<string>8 Series/C220 Series Chipset High Definition Audio Controller</string>
+	<key>8086:8CA0</key>
+	<string>9 Series Chipset Family HD Audio Controller</string>
+	<key>8086:8D20</key>
+	<string>C610/X99 series chipset HD Audio Controller</string>
+	<key>8086:8D21</key>
+	<string>C610/X99 series chipset HD Audio Controller</string>
+	<key>8086:9C20</key>
+	<string>8 Series HD Audio Controller</string>
+	<key>8086:9C21</key>
+	<string>8 Series HD Audio Controller</string>
+	<key>8086:9C36</key>
+	<string>8 Series Audio DSP Controller</string>
+	<key>8086:9CA0</key>
+	<string>Wildcat Point-LP High Definition Audio Controller</string>
+	<key>8086:9D70</key>
+	<string>Sunrise Point-LP HD Audio</string>
+	<key>8086:9D71</key>
+	<string>Sunrise Point-LP HD Audio</string>
+	<key>8086:9D74</key>
+	<string>Sunrise Point-LP HD Audio</string>
+	<key>8086:A170</key>
+	<string>100 Series/C230 Series Chipset Family HD Audio Controller</string>
+	<key>8086:A171</key>
+	<string>CM238 HD Audio Controller</string>
+	<key>8086:A2F0</key>
+	<string>200 Series PCH HD Audio</string>
+	<key>8086:A348</key>
+	<string>300 Series PCH HD Audio</string>
+	<key>8086:9DC8</key>
+	<string>300 Series PCH HD Audio</string>
+</dict>
+</plist>

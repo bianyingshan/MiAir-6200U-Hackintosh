@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>8086:1E31</key>
+	<string>7-series</string>
+	<key>8086:9CB1</key>
+	<string>8/9-series</string>
+	<key>8086:8D31</key>
+	<string>X99-series</string>
+	<key>8086:A12F</key>
+	<string>100-series</string>
+	<key>8086:9D2F</key>
+	<string>100-series</string>
+	<key>8086:A2AF</key>
+	<string>200-series</string>
+	<key>8086:A36D</key>
+	<string>300-series</string>
+	<key>8086:9DED</key>
+	<string>300-series</string>
+</dict>
+</plist>
